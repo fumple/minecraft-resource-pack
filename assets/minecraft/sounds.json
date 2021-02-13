@@ -1,0 +1,36 @@
+{
+    "entity.creeper.primed": {
+        "replace": true,
+        "category": "hostile",
+        "sounds": [
+            "random/fuse_creeper"
+        ],
+        "pitch": 1.0,
+        "volume": 1.0
+    },
+    "entity.cow.ambient": {
+        "replace": true,
+        "sounds": [
+            "mob/cow/say1",
+            "mob/cow/say2",
+            "mob/cow/say3"
+        ],
+        "subtitle": "subtitles.entity.cow.ambient"
+    },
+    "entity.cow.death": {
+        "replace": true,
+        "sounds": [
+            "mob/cow/hurt1",
+            "mob/cow/hurt2"
+        ],
+        "subtitle": "subtitles.entity.cow.death"
+    },
+    "entity.cow.hurt": {
+        "replace": true,
+        "sounds": [
+            "mob/cow/hurt1",
+            "mob/cow/hurt2"
+        ],
+        "subtitle": "subtitles.entity.cow.hurt"
+    }
+}
