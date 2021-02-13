@@ -11,7 +11,7 @@ jobs:
         filename: 'fumpleresourcepack.zip'
         exclusions: '*.git*'
     - name: Upload Archive
-    - uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v2
       with:
         name: ResourcePack
         path: fumpleresourcepack.zip
