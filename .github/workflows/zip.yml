@@ -9,5 +9,5 @@ jobs:
     - name: Upload Archive
       uses: actions/upload-artifact@v2
       with:
-        name: ResourcePack
+        name: FumpleResourcePack
         path: .
