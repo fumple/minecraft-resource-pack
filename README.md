@@ -1,4 +1,4 @@
-[Download Latest](https://nightly.link/fumple/minecraft-resource-pack/workflows/zip/main/ResourcePack.zip)
+**[📥 Download Latest](https://nightly.link/fumple/minecraft-resource-pack/workflows/zip/main/ResourcePack.zip)**
 # minecraft-resource-pack
 A meme resource pack I made for a server
 
