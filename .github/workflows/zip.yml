@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - run: rm .git
     - name: Upload Archive
       uses: actions/upload-artifact@v2
       with:
